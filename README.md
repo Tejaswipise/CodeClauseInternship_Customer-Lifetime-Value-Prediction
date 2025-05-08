@@ -5,13 +5,13 @@
 
 
 ## Table of Contents:
-- [Introduction](#1.introduction)
-- [Problem Definition](#2.problem-definition)
-- [Data Source](#3.data-source)
-- [Approach and Methodology](#4.approach-and-methodology)
-- [Key Insights and Findings](#5.key-insights-and-findings)
-- [Conclusion](#6.conclusion)
-- [Future Work](#7.future-work)
+- [Introduction](#1.-introduction)
+- [Problem Definition](#2.-problem-definition)
+- [Data Source](#3.-data-source)
+- [Approach and Methodology](#4.-approach-and-methodology)
+- [Key Insights and Findings](#5.-key-insights-and-findings)
+- [Conclusion](#6.-conclusion)
+- [Future Work](#7.-future-work)
 
 ## 1. Introduction
 
