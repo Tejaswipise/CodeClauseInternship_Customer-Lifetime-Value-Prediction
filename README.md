@@ -2,6 +2,17 @@
 
 ## Customer Lifetime Value (CLV) Prediction Report
 
+
+
+## Table of Contents:
+- [Introduction](#1.introduction)
+- [Problem Definition](#2.problem-definition)
+- [Data Source](#3.data-source)
+- [Approach and Methodology](#4.approach-and-methodology)
+- [Key Insights and Findings](#5.key-insights-and-findings)
+- [Conclusion](#6.conclusion)
+- [Future Work](#7.future-work)
+
 ## 1. Introduction
 
 In today’s competitive e-commerce landscape, understanding and predicting **Customer Lifetime Value (CLV)** is crucial. CLV helps businesses understand the total revenue a customer is likely to generate over their entire relationship with the company. This information can guide businesses in crafting targeted marketing strategies, improving customer service, and boosting customer retention. The goal of this project was to predict CLV for customers based on past purchasing behaviors and gain insights into how to engage with high-value customers more effectively.
@@ -70,7 +81,7 @@ We analyzed **churn rates** across customer segments. This helped us understand 
 
 4. **Churn Rate**: Our churn analysis showed that customers with low-frequency purchases and lower spending had higher churn rates. This suggests that businesses should focus on engaging these customers before they churn.
 
-## **6. Conclusion and Recommendations**
+## **6. Conclusion **
 
 The project successfully identified high-value customers and those at risk of churning using various data science techniques. Here are a few recommendations:
 
