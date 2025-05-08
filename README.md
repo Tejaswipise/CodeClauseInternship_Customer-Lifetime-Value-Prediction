@@ -10,7 +10,7 @@
 - [Data Source](#3-data-source)
 - [Approach and Methodology](#4-approach-and-methodology)
 - [Key Insights and Findings](#5-key-insights-and-findings)
-- [Conclusion](#6-conclusion)
+- [Conclusion and Recommendation](#6-conclusion-and-recommendation)
 - [Future Work](#7-future-work)
 
 ## 1. Introduction
@@ -81,7 +81,7 @@ We analyzed **churn rates** across customer segments. This helped us understand 
 
 4. **Churn Rate**: Our churn analysis showed that customers with low-frequency purchases and lower spending had higher churn rates. This suggests that businesses should focus on engaging these customers before they churn.
 
-## 6. Conclusion 
+## 6. Conclusion and Recommendation 
 
 The project successfully identified high-value customers and those at risk of churning using various data science techniques. Here are a few recommendations:
 
